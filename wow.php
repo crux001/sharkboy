@@ -1,6 +1,6 @@
 <?php
  
-mail("9066894931@mail.globenet.com.ph", "", "Your packaged has arrived!", "From: GGWP <david@davidwalsh.name>\r\n");
+mail("639066894931@pmms.globe.com.ph", "", "Your packaged has arrived!", "From: GGWP <david@davidwalsh.name>\r\n");
 
  
 ?>
